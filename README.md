@@ -9,8 +9,10 @@ I'm developing this project as an **automation tool for websites** that lets you
 ## 🛠️ Installation
 
 [You can click here for install extension!](https://addons.mozilla.org/tr/firefox/addon/website-automation-extension/)
-* Or
-* Download the source code and add manually to your Firefox :)
+
+Or
+  
+Download the source code and add manually to your Firefox :)
 
 ## 🎯 Future Updates (My Roadmap)
 
