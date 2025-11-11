@@ -36,7 +36,7 @@ If you'd like to help me with the code, I definitely won't say no! Feel free to 
 
 If you want to support the project financially and boost my motivation, you can become a patron on Patreon. Your support means a lot to me!
 
-[Patreon Link](https://www.patreon.com/c/corp14x3)
+[Patreon](https://www.patreon.com/c/corp14x3)
 
 ## 📜 License
 
