@@ -40,4 +40,4 @@ If you want to support the project financially and boost my motivation, you can 
 
 ## 📜 License
 
-(Optional: Add your license information.)
+This project is licensed under the **Apache License 2.0**.
